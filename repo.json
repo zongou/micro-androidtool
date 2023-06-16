@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "androidutils",
+    "Description": "plugin to send a text selection on android.",
+    "Tags": [
+      "android", "clipboard"
+    ],
+    "Versions": [
+      {
+        "Version": "1.0.0",
+        "Url": "https://github.com/zongou/micro-androidutils/archive/v1.0.0.zip",
+        "Require": {
+          "micro": ">=2.0.0"
+        }
+      }
+    ]
+  }
+]
